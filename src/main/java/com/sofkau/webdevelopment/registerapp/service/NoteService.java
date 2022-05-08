@@ -1,7 +1,7 @@
-package com.sofkau.webdevelopment.todoapp.service;
+package com.sofkau.webdevelopment.registerapp.service;
 
-import com.sofkau.webdevelopment.todoapp.entity.Note;
-import com.sofkau.webdevelopment.todoapp.repository.NoteRepository;
+import com.sofkau.webdevelopment.registerapp.entity.Note;
+import com.sofkau.webdevelopment.registerapp.repository.NoteRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

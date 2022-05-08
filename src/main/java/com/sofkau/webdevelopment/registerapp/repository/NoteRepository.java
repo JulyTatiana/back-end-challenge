@@ -1,6 +1,6 @@
-package com.sofkau.webdevelopment.todoapp.repository;
+package com.sofkau.webdevelopment.registerapp.repository;
 
-import com.sofkau.webdevelopment.todoapp.entity.Note;
+import com.sofkau.webdevelopment.registerapp.entity.Note;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

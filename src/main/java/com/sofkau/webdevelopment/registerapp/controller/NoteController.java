@@ -1,7 +1,7 @@
-package com.sofkau.webdevelopment.todoapp.controller;
+package com.sofkau.webdevelopment.registerapp.controller;
 
-import com.sofkau.webdevelopment.todoapp.entity.Note;
-import com.sofkau.webdevelopment.todoapp.service.NoteService;
+import com.sofkau.webdevelopment.registerapp.entity.Note;
+import com.sofkau.webdevelopment.registerapp.service.NoteService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

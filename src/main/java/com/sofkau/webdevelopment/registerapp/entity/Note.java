@@ -1,4 +1,4 @@
-package com.sofkau.webdevelopment.todoapp.entity;
+package com.sofkau.webdevelopment.registerapp.entity;
 
 import lombok.Data;
 
